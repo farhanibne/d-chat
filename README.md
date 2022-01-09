@@ -1,9 +1,6 @@
-# GUN Chat Dapp Demo
+# d-chat
 
-A decentralized chat app built with [GUN](https://gun.eco/). 
-
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
-- Watch the [Chat Dapp Video](https://youtu.be/J5x3OMXjgMc)
+this is made with gun.js and followed and backend used by fireship.io...
 
 ```
 git clone <this-repo>
